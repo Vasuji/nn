@@ -9,7 +9,8 @@ Info: Neural Network, Deep Learning , Recursive Net etc
 
 
 
-
+### Text Book
+![a](https://images-na.ssl-images-amazon.com/images/I/51b1PWBu6uL._SX354_BO1,204,203,200_.jpg)
 
 
 
