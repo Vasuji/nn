@@ -25,6 +25,9 @@ Info: Neural Network, Deep Learning , Recursive Net etc
 5. Reinforcement learning: http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf
 
 
+### Reference Books:
 
+1. Probabilistic Graphical Models: Principles and Techniques (Adaptive Computation and Machine Learning series) 1st Edition by Daphne Koller 
+![book](https://images-na.ssl-images-amazon.com/images/I/412Q24g5bGL._SX442_BO1,204,203,200_.jpg)
 
 
