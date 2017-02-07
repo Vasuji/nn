@@ -31,4 +31,6 @@ Info: Neural Network, Deep Learning , Recursive Net etc
 
 ![book](https://images-na.ssl-images-amazon.com/images/I/412Q24g5bGL._SX442_BO1,204,203,200_.jpg)
 
+2. Decision Making Under Uncertainty: Theory and Application (MIT Lincoln Laboratory Series) 
 
+![book](https://images-na.ssl-images-amazon.com/images/I/51Sm4hGqHzL._SX388_BO1,204,203,200_.jpg)
