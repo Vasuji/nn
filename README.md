@@ -23,6 +23,7 @@ Info: Neural Network, Deep Learning , Recursive Net etc
 3. Probabilistic Graphical Model: https://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html
 4. NN: http://neuralnetworksanddeeplearning.com/
 5. Reinforcement learning: http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf
+6. http://cs231n.github.io/
 
 
 ### Reference Books:
