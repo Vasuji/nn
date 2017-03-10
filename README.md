@@ -24,6 +24,7 @@ Info: Neural Network, Deep Learning , Recursive Net etc
 4. NN: http://neuralnetworksanddeeplearning.com/
 5. Reinforcement learning: http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf
 6. http://cs231n.github.io/
+7. Traffic-sign-classification: https://github.com/MWransky/traffic-signs/blob/MWransky-submission/Traffic_Signs_Recognition.ipynb , 
 
 
 ### Reference Books:
